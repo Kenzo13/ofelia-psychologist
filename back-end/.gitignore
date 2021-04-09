@@ -2,6 +2,8 @@
 node_modules/
 yarn.lock
 .eslintrc.json
+.env
+ormconfig.json
 
 tmp/*
 !tmp/.gitkeep
